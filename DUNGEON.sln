@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{FAC43B02-FA7C-B00B-0C0D-CFB857469E26}") = "DUNGEON", "Assembly-CSharp.csproj", "{7F55488E-1DF2-B21D-BCF7-97E79D0F31C5}"
+EndProject
+Project("{FAC43B02-FA7C-B00B-0C0D-CFB857469E26}") = "DUNGEON", "Assembly-CSharp-Editor.csproj", "{D923C1C7-968F-17EA-8934-D1DE509CA9F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F55488E-1DF2-B21D-BCF7-97E79D0F31C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F55488E-1DF2-B21D-BCF7-97E79D0F31C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F55488E-1DF2-B21D-BCF7-97E79D0F31C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F55488E-1DF2-B21D-BCF7-97E79D0F31C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D923C1C7-968F-17EA-8934-D1DE509CA9F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D923C1C7-968F-17EA-8934-D1DE509CA9F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D923C1C7-968F-17EA-8934-D1DE509CA9F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D923C1C7-968F-17EA-8934-D1DE509CA9F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
